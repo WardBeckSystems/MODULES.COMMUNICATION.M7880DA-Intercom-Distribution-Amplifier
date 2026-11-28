@@ -1,6 +1,6 @@
 # M7880DA Intercom Distribution Amplifier · Communication
 
-Ward-Beck Systems M7880DA, 1994|27. Wiki page: [M7880DA on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7880DA.html)
+Ward-Beck Systems M7880DA, 1994|27. Wiki page: [M7880DA on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880DA-Intercom-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
